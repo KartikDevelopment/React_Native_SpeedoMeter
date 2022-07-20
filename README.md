@@ -17,11 +17,6 @@ A Customizable Speedometer Implementation in React Native
 - [TODOS](#todos)
 - [Questions](#questions)
 
-### Installation
-
-```bash
-$ npm i react-native-speedometer --save
-```
 
 ### Basic Usage
 ```
@@ -143,7 +138,7 @@ const styles = StyleSheet.create({
 
 ## Contribution
 
-- [@pritishvaidya](mailto:pritishvaidya94@gmail.com) The main author.
+- [@kartikyadav](mailto:kartikyadav637@gmail.com) The main author.
 
 ## TODOS
 - Provision to remove `labels` and `labelIndex`.
@@ -151,4 +146,4 @@ const styles = StyleSheet.create({
 
 ## Questions
 
-Feel free to [contact me](mailto:pritishvaidya94@gmail.co) or [create an issue](https://github.com/pritishvaidya/react-native-speedometer/issues/new)
+Feel free to [contact me](kartikyadav637@gmail.com)
